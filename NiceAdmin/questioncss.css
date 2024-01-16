@@ -1,0 +1,36 @@
+.description-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    float: center;
+}
+
+body {
+    background: linear-gradient(45deg, #FF6B6B, #3B49DF);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style your content */
+h1 {
+    font-size: 36px;
+    color: #fff;
+}
+
+
+.description-box h2 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.description-box p {
+    color: #555;
+    font-size: 18px;
+}
+        /* Style the title */

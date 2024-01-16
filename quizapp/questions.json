@@ -1,0 +1,29 @@
+[
+  {
+    "question": "On a scale of 1-5, how are you feeling today? (1: Very good, 5: Very bad)",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "choice5": "5",
+    "answer": 1
+  },
+  {
+    "question": "On a scale of 1-5, how often do you feel anxious? (1: Rarely, 5: Very often)",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "choice5": "5",
+    "answer": 2
+  },
+  {
+    "question": "On a scale of 1-5, how often do you feel stressed? (1: Rarely, 5: Very often)",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "choice5": "5",
+    "answer": 3
+  }
+]
